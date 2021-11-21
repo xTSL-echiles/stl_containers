@@ -7,3 +7,4 @@ All containers provided with uni-tests.
 * cd *CONTAINER_NAME*
 * make
 * ./go
+![alt-текст](https://github.com/xTSL-echiles/ft_services/blob/main/scheme.png "How does it look: ")
