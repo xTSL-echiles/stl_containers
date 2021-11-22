@@ -8,3 +8,4 @@ All containers provided with uni-tests.
 * make
 * ./go  
 ![alt-текст](https://github.com/xTSL-echiles/stl_containers/blob/main/test_map.png "How does it look: ")
+* make fclean
