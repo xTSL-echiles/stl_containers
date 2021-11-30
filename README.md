@@ -1,4 +1,4 @@
-# Trying to make similar containers like in STL:
+# Trying to make similar containers like in STL 98 standart:
 * Map
 * Vector
 * Stack  
